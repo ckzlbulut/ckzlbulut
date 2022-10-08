@@ -1,5 +1,4 @@
 
-![I am Software Development Engineer](https://www.fablr.co.uk/wp-content/uploads/2021/04/developmentfacebookbanner.jpg)
 ### Hi there 👋, I'am Çağlar
 ### Nice to meet you !
 #### I am Software Development Engineer In Test
