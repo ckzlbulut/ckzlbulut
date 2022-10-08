@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**ckzlbulut/ckzlbulut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, my name is Çağlar
+#### I am Software Development Engineer
+![I am Software Development Engineer](https://www.fablr.co.uk/wp-content/uploads/2021/04/developmentfacebookbanner.jpg)
 
-Here are some ideas to get you started:
+A Test Automation Engineer, who tries to keep himself up-to-date in the field of software, takes part in the quality management processes of applications that greatly facilitate our lives, and through which aims to contribute to the creation of high quality products, and enjoys learning new tools and languages.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: Java Core / Selenium / TestNG / Cucumber / TestNG / Maven / JDBC / Postman / Rest Assured / Jenkins
+
+- 🔭 I’m currently working on Mersys 
+- 🌱 I’m currently learning QA technologies 
+- 💬 Ask me about Testing 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/ckzlbulut)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/caglar-kizilbulut/?locale=en_US/)  
+
