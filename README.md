@@ -1,6 +1,7 @@
 
 ![I am Software Development Engineer](https://www.fablr.co.uk/wp-content/uploads/2021/04/developmentfacebookbanner.jpg)
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKLGr2dKOFPM3HA1Xd58M8YAr-ILx_6BKx0g&usqp=CAU
+(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKLGr2dKOFPM3HA1Xd58M8YAr-ILx_6BKx0g&usqp=CAU
+)
 ### Hi there 👋, I'am Çağlar
 ### Nice to meet you !
 #### I am Software Development Engineer In Test
