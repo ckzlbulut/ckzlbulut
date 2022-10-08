@@ -10,5 +10,4 @@ Skills: Java Core / Selenium / TestNG / Cucumber / TestNG / Maven / JDBC / Postm
 - 🔭 I’m currently working on Mersys 
 - 🌱 I’m currently learning QA technologies 
 - 💬 Ask me about Testing 
-https://img.shields.io/badge/-Cucumber-brightgreen#:~:text=Cucumber-,Cucumber
 
