@@ -14,4 +14,4 @@ Skills: Java Core / Selenium / Cucumber / TestNG / Maven / JDBC / Postman / Rest
 - 🌱 I’m currently learning QA technologies 
 - 💬 Ask me about Testing 
 
-![Screen Shot 2022-10-09 at 4 31 49 PM]()
+
