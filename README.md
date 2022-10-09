@@ -14,6 +14,10 @@ Skills: Java Core / Selenium / Cucumber / TestNG / Maven / JDBC / Postman / Rest
 
 <img align="right" alt="Coding" width="30" src="https://user-images.githubusercontent.com/103858540/194759966-0d8cbfbb-3206-43d1-923c-c177b9cfd13b.png">
 <img align="right" alt="Coding" width="30" src="https://user-images.githubusercontent.com/103858540/194759969-527c525d-45a9-424e-bc89-14764f698ca4.png">
+<img align="right" alt="Coding" width="30" src="https://user-images.githubusercontent.com/103858540/194760018-93d8b1dc-8690-49b1-a933-0beaa559e7fc.png">
+<img align="right" alt="Coding" width="30" src="https://user-images.githubusercontent.com/103858540/194760021-980d3722-62f6-475f-874a-5e90d8ffb27f.png">
+<img align="right" alt="Coding" width="30" src="https://user-images.githubusercontent.com/103858540/194760022-7c0dbe5c-dc88-40f4-af64-d29e102388a6.png">
+<img align="right" alt="Coding" width="30" src="https://user-images.githubusercontent.com/103858540/194760171-df329be9-cacc-4b90-a03c-fbf650ff30ae.png">
 <img align="right" alt="Coding" width="30" src="">
 <img align="right" alt="Coding" width="30" src="">
 
