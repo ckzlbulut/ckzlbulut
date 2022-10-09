@@ -14,15 +14,15 @@ Skills: Java Core/Selenium/Cucumber/TestNG/mySQL
 - 💬 Ask me about Testing 
 
 <img align="right"  width="32" height="32" src="https://user-images.githubusercontent.com/103858540/194759966-0d8cbfbb-3206-43d1-923c-c177b9cfd13b.png">
-<img align="right"  width="32" src="https://user-images.githubusercontent.com/103858540/194759969-527c525d-45a9-424e-bc89-14764f698ca4.png">
-<img align="right"  width="32" src="https://user-images.githubusercontent.com/103858540/194760018-93d8b1dc-8690-49b1-a933-0beaa559e7fc.png">
-<img align="right"  width="32" src="https://user-images.githubusercontent.com/103858540/194760021-980d3722-62f6-475f-874a-5e90d8ffb27f.png">
-<img align="right"  width="32" src="https://user-images.githubusercontent.com/103858540/194760022-7c0dbe5c-dc88-40f4-af64-d29e102388a6.png">
-<img align="right"  width="32" src="https://user-images.githubusercontent.com/103858540/194760171-df329be9-cacc-4b90-a03c-fbf650ff30ae.png">
-<img align="right"  width="32" src="https://user-images.githubusercontent.com/103858540/194760206-1fd012a2-af22-4457-a676-e261f4a95356.png">
-<img align="right"  width="32" src="https://user-images.githubusercontent.com/103858540/194760207-cadf437c-5fe2-421a-8131-eab0a256f29c.png">
-<img align="right"  width="32" src="https://user-images.githubusercontent.com/103858540/194760213-70c308c0-bc81-4ca9-8eb9-241c4ee940f9.png">
-<img align="right"  width="32" src="https://user-images.githubusercontent.com/103858540/194760331-56114638-c2af-4c14-a142-da2b19c04fe1.png">
+<img align="right"  width="32" height="32" src="https://user-images.githubusercontent.com/103858540/194759969-527c525d-45a9-424e-bc89-14764f698ca4.png">
+<img align="right"  width="32" height="32" src="https://user-images.githubusercontent.com/103858540/194760018-93d8b1dc-8690-49b1-a933-0beaa559e7fc.png">
+<img align="right"  width="32" height="32" src="https://user-images.githubusercontent.com/103858540/194760021-980d3722-62f6-475f-874a-5e90d8ffb27f.png">
+<img align="right"  width="32" height="32" src="https://user-images.githubusercontent.com/103858540/194760022-7c0dbe5c-dc88-40f4-af64-d29e102388a6.png">
+<img align="right"  width="32" height="32" src="https://user-images.githubusercontent.com/103858540/194760171-df329be9-cacc-4b90-a03c-fbf650ff30ae.png">
+<img align="right"  width="32" height="32" src="https://user-images.githubusercontent.com/103858540/194760206-1fd012a2-af22-4457-a676-e261f4a95356.png">
+<img align="right"  width="32" height="32" src="https://user-images.githubusercontent.com/103858540/194760207-cadf437c-5fe2-421a-8131-eab0a256f29c.png">
+<img align="right"  width="32" height="32" src="https://user-images.githubusercontent.com/103858540/194760213-70c308c0-bc81-4ca9-8eb9-241c4ee940f9.png">
+<img align="right"  width="32" height="32" src="https://user-images.githubusercontent.com/103858540/194760331-56114638-c2af-4c14-a142-da2b19c04fe1.png">
 
 
 
