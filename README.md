@@ -10,3 +10,4 @@ A Test Automation Engineer, who tries to keep himself up-to-date in the field of
 - 🔭 I’m currently working on Mersys 
 - 🌱 I’m currently learning QA technologies 
 - 💬 Ask me about Testing 
+![Screen Shot 2022-10-09 at 4 13 47 PM](https://user-images.githubusercontent.com/103858540/194758828-37c516d6-d2a7-4f3f-8eae-9ca048ade276.png)
