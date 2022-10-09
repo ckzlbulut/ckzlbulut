@@ -25,7 +25,7 @@ Skills: Java Core/Selenium/Cucumber/TestNG/mySQL
 <img align="right"  width="32" src="https://user-images.githubusercontent.com/103858540/194760331-56114638-c2af-4c14-a142-da2b19c04fe1.png">
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
-
+<p align="left"> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/103858540/194759966-0d8cbfbb-3206-43d1-923c-c177b9cfd13b.png" alt="selenium" width="40" height="40"/> </a> </p>
 
 
 
