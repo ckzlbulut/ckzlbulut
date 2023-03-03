@@ -9,7 +9,7 @@ Skills: Java Core/Selenium/Cucumber/TestNG/mySQL
         Maven/JDBC/Postman/Rest Assured/Jenkins
 
 
-- 🔭 I’m currently working on Mersys 
+- 🔭 I’m currently working on massivebio 
 - 🌱 I’m currently learning QA technologies 
 - 💬 Ask me about Testing 
 
